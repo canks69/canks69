@@ -2,10 +2,6 @@
 
 I'm a self-taught passionate Develpment from Makassar.
 
-**About me**
-
-- Development at [PT. INTAMA](https://intama.info)
-
 **Tools, Framework, Library & Languages**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -17,5 +13,6 @@ I'm a self-taught passionate Develpment from Makassar.
 
 #### Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/san-ardiansyah) •
-[Instagram](https://www.instagram.com/mantan.gondrong_)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fihsan659%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Provile+views&edge_flat=true)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/san-ardiansyah-7b4a79206/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mantan.gondrong_/)

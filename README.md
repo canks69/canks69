@@ -1,17 +1,17 @@
-<h1>Hello! I'm San</h1>
-
-I'm a self-taught passionate Develpment from Makassar.
-
-**Tools, Framework, Library & Languages**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-
-#### Contact Me
+<p align="center">
+  <a href="https://github.com/canks69">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canks69&theme=transparent" />
+  </a>
+  <a href="https://github.com/canks69">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=canks69&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/canks69">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=canks69&theme=transparent" />
+  </a>
+  <a href="https://github.com/canks69">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canks69&langs_count=8&exclude_repo=&hide=c,makefile,sass,nix,nunjucks,tsql,dockerfile,shell&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fihsan659%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Provile+views&edge_flat=true)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/san-ardiansyah-7b4a79206/)

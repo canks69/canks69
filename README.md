@@ -3,10 +3,16 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canks69&theme=transparent" />
   </a>
   <a href="https://github.com/canks69">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=canks69&hide_border=true&card_width=338&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=canks69&theme=transparent" />
   </a>
   <a href="https://github.com/canks69">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=canks69&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=canks69&theme=transparent" />
+  </a>
+  <a href="https://github.com/canks69">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=canks69&theme=transparent" />
+  </a>
+  <a href="https://github.com/canks69">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canks69&theme=transparent&utcOffset=8" />
   </a>
   <a href="https://github.com/canks69">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canks69&langs_count=8&exclude_repo=&hide=c,makefile,sass,nix,nunjucks,tsql,dockerfile,shell&card_width=699&hide_border=true&theme=transparent" />
